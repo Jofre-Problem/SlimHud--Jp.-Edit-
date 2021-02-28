@@ -1,4 +1,3 @@
-#base "base/teammatepanel_incap.res"
 "Resource/UI/HUD/TeammatePanel_Incap.res"
 {
 	"BackgroundImage"

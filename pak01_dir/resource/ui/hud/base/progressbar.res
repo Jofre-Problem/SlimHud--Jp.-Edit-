@@ -1,4 +1,3 @@
-#base "base/progressbar.res"
 "Resource/UI/HUD/ProgressBar.res"
 {
 	"BackgroundImage"

@@ -1,3 +1,4 @@
+#base "base/teammatepanel.res"
 "Resource/UI/HUD/TeammatePanel.res"
 {
 	"BackgroundImage"
