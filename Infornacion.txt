@@ -1,0 +1,28 @@
+1.- • Editar el archivo "gameinfo.txt" que se encuentra en la carpeta "left4dead2":
+C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\
+Agregar el nombre de la carpeta que crearas en el juego
+Encuentra esta parte del archivo Search Paths:
+
+SearchPaths
+{
+	Game				MisAddons
+	Game				update
+	Game				left4dead2_dlc3
+	Game				left4dead2_dlc2
+	Game				left4dead2_dlc1
+	Game				|gameinfo_path|.
+	Game				hl2
+}
+
+Agregas y guardas los cambios en el archivo.
+
+2.- • crear la carpeta donde pondras el archivo "pak01_dir.vpk" 
+nombrala como quieras pero recuerda que se debe llamar igual que el nombre que pusiste en el archivo "gameinfo.txt"
+
+C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2
+
+3.- • Encuentra tus addons
+C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop\
+
+4.- • Descargar el programa vpk.exe para desempaquetar o extraer los addons.
+
